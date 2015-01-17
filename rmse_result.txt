@@ -1,0 +1,2 @@
+RMSE 5 neighbors 0.328335900317
+RMSE 10 neighbors 0.323508363794
